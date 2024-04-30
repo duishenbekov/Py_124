@@ -1,0 +1,1 @@
+write('tilek', 25, 'kyrgzstan')name:tilek age:26, country:kyrgyzstan
